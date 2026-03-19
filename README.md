@@ -50,7 +50,7 @@ reforçando conceitos essenciais para evolução no desenvolvimento backend.
 1. Clone o repositório:
 
 ```id="n8e3vh"
-git clone https://github.com/joaoataide38/ExercicioVetores
+git clone https://github.com/joaoataide38/ExercicioVetores.git
 ```
 
 2. Abra na sua IDE
